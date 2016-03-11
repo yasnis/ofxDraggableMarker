@@ -6,7 +6,7 @@ class ofApp : public ofBaseApp{
     
     vector<ofxDraggableMarker *> draggers;
     ofxDraggableMarker *dragger;
-    
+
     ofxDraggableMarkerGroup group0;
     ofxDraggableMarkerGroup group1;
     

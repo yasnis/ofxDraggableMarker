@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>DAFFEEF1-EF19-451B-8F6D-1C0B8B0B0DB2</string>
+	<string>C1A4637F-76F7-43F3-A92D-72B18393E7B0</string>
 	<key>IDESourceControlProjectName</key>
-	<string>ofApp</string>
+	<string>ofxDraggableMarker</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>860D0782218C7724165ED1929F54739F0532E2CF</key>
-		<string>https://github.com/yasnis/ofMinimalProject.git</string>
+		<key>14017B46B0BF1A37D91B8DAD524198D69B9000D6</key>
+		<string>https://github.com/yasnis/ofxDraggableMarker.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ofApp.xcodeproj</string>
+	<string>ofxDraggableMarker/ofxDraggableMarker.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>860D0782218C7724165ED1929F54739F0532E2CF</key>
-		<string>../..</string>
+		<key>14017B46B0BF1A37D91B8DAD524198D69B9000D6</key>
+		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/yasnis/ofMinimalProject.git</string>
+	<string>https://github.com/yasnis/ofxDraggableMarker.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>860D0782218C7724165ED1929F54739F0532E2CF</string>
+	<string>14017B46B0BF1A37D91B8DAD524198D69B9000D6</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>860D0782218C7724165ED1929F54739F0532E2CF</string>
+			<string>14017B46B0BF1A37D91B8DAD524198D69B9000D6</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ofMinimalProject</string>
+			<string>ofxDraggableMarker</string>
 		</dict>
 	</array>
 </dict>
