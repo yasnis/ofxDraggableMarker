@@ -33,11 +33,14 @@ public:
     void setID(int _id);
     int getID();
     
-    
-    bool mouseReleased(ofMouseEventArgs & args);
-    bool mouseMoved(ofMouseEventArgs & args);
-    bool mousePressed(ofMouseEventArgs & args);
-    bool mouseDragged(ofMouseEventArgs & args);
+
+	void mouseReleased(ofMouseEventArgs & args);
+	void mouseMoved(ofMouseEventArgs & args);
+	void mousePressed(ofMouseEventArgs & args);
+	void mouseDragged(ofMouseEventArgs & args);
+	void mouseScrolled(ofMouseEventArgs & args);
+	void mouseEntered(ofMouseEventArgs & args);
+	void mouseExited(ofMouseEventArgs & args);
     
     
     void setColor(ofColor col);
