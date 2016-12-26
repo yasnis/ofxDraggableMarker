@@ -49,10 +49,26 @@ void ofxDraggableMarkerGroup::setDefaultColor(ofColor col) {
     defaultColor.set(col);
 }
 
+int ofxDraggableMarkerGroup::size() {
+    return this->vector::size();
+}
+
 ofVec2f ofxDraggableMarkerGroup::getDefaultPosition() {
     return defaultPosition;
 }
 
 ofColor ofxDraggableMarkerGroup::getDefaultColor() {
     return defaultColor;
+}
+
+
+void ofxDraggableMarkerGroup::setOffset(ofVec2f v) {
+    offset = v;
+    for (int i = 0; i<size(); i++) {
+        at(i)->setOffset(v);
+    }
+}
+
+ofVec2f ofxDraggableMarkerGroup::getOffset() {
+    return offset;
 }
