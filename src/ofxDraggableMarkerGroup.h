@@ -11,7 +11,7 @@
 #include "ofMain.h"
 #include "ofxDraggableMarker.h"
 
-class ofxDraggableMarkerGroup:vector<ofxDraggableMarker *> {
+class ofxDraggableMarkerGroup:public vector<ofxDraggableMarker *> {
 private:
     ofVec2f defaultPosition = ofVec2f(0, 0);
     ofColor defaultColor = ofColor(255, 0, 0);
